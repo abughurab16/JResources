@@ -2,11 +2,11 @@
 
 ### Quicky
 
-**Julia is C+Python, in other words it is simple and fast, Julia is 1-index based.**
+**Julia is C+Python, in other words, it is simple and fast, Julia is 1-index based.**
 
 #### Resources to Learn Julia
 
-* [I highly suggest reading the docs](https://docs.julialang.org/en/v1/), and refer to it oftenly.
+* [I highly suggest reading the docs](https://docs.julialang.org/en/v1/), and refer to it often.
 
 * [Julia Academy](https://juliaacademy.com/courses). Definitely My Favourite choice.
 
@@ -20,7 +20,7 @@
 
 * [Julia for Data Scientist's Book](https://datasciencejuliahackers.com/)
 
-* [Exercism Julia Track](https://exercism.io/tracks/julia), doesn't teach Julia but very good for practicing problems.
+* [Exercism Julia Track](https://exercism.io/tracks/julia), doesn't teach Julia but very good for practising problems.
 
 * [Aurelio Amerio's Course](https://techytok.com/from-zero-to-julia/)
 
@@ -58,11 +58,11 @@ Once you know the language it's time to write some code and play with cool packa
 
 #### [Plots.jl](http://docs.juliaplots.org/latest/)
 
-**Powerful convenience for Julia visualizations and data analysiss**
+**Powerful convenience for Julia visualizations and data analysis**
 
 #### [Makie.jl](https://github.com/JuliaPlots/Makie.jl)
 
-**High level plotting on the GPU.**
+** High-level plotting on the GPU.**
 
 #### [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
 
@@ -78,11 +78,11 @@ Once you know the language it's time to write some code and play with cool packa
 
 #### [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
 
-**Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components**
+**Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SCIML) components**
 
 #### [Flux.jl](https://fluxml.ai/Flux.jl/stable/)
 
-**Flux is a library for machine learning. It comes "batteries-included" with many useful tools built in, but also lets you use the full power of the Julia language where you need it.**
+**Flux is a library for machine learning. It comes "batteries-included" with many useful tools built-in, but also lets you use the full power of the Julia language where you need it.**
 
 #### [MLJ.jl](https://github.com/alan-turing-institute/MLJ.jl)
 
@@ -144,7 +144,7 @@ Once you know the language it's time to write some code and play with cool packa
 **HTTP For Julia**
 
 #### [Genie.jl](https://github.com/GenieFramework/Genie.jl)
-**Genie is a full-stack MVC web framework that provides a streamlined and efficient workflow for developing modern web applications. It builds on Julia's strengths (high-level, high-performance, dynamic, JIT compiled), exposing a rich API and a powerful toolset for productive web development.**
+**Genie is a full-stack MVC web framework that provides a streamlined and efficient workflow for developing modern web applications. It builds on Julia's strengths (high-level, high-performance, dynamic, JIT-compiled), exposing a rich API and a powerful toolset for productive web development.**
 
 #### [Franklin.jl](https://github.com/tlienart/Franklin.jl)
 **Franklin is a simple static site generator (SSG) oriented towards technical blogging (code, maths, ...), flexibility and extensibility. The base syntax is plain markdown with a few extensions such as the ability to define and use LaTeX-like commands in or outside of maths environments and the possibility to evaluate code blocks on the fly.**
